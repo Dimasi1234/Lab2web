@@ -4,7 +4,7 @@ Saya sudah mengikuti instruksi yang diberikan pada model dan telah menerapkannya
 ![Screenshot (34)](https://github.com/user-attachments/assets/9ac5ea3d-544c-4041-94d4-050871f7847a)
 ![Screenshot (35)](https://github.com/user-attachments/assets/f6a523e6-7061-4445-a9f8-18cbf1150bee)
 
- 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+# 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan intro h1 {...}? berikan penjelasannya!
 Jawab :
 h1{ } adalah selector elemen yang akan menerapkan gaya ke semua elemen <h1> di halaman tersebut, tanpa memandang konteks atau lokasi elemen itu dalam HTML. Sedangkan intro h1{ } adalah selector kombinasi yang lebih spesifik. Selector ini hanya akan menerapkan gaya pada elemen <h1> yang berada di dalam elemen dengan id="intro". Jadi, hanya elemen <h1> di dalam konteks elemen dengan ID intro yang akan mendapatkan gaya ini. Dibawah ini adalah contohnya
 ![Screenshot (37)](https://github.com/user-attachments/assets/d82655ff-11b7-455f-a261-07747a48bb76)
